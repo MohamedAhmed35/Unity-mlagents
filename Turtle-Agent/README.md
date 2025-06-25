@@ -39,7 +39,7 @@ mlagents-learn config/Turtle.yaml --run-id=Turtle_run
 
 ## 🎥 Demo
 A short video of the agent learning to reach the goal is available here:
-
+▶️ [Click here to watch the training demo](demo/turtle_training.mp4)
 
 ## Requirements
 - Unity 2023 or later
