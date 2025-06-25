@@ -33,7 +33,7 @@ This project demonstrates a Reinforcement Learning agent built using **Unity** a
 ## 🏁 Training Command
 
 ```bash
-mlagents-learn config/Turtle.yaml --run-id=Turtle_run --train
+mlagents-learn config/Turtle.yaml --run-id=Turtle_run
 ```
 
 ## 🎥 Demo
@@ -49,10 +49,6 @@ A short video of the agent learning to reach the goal is available here:
 
 This project uses the [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents).
 
-To install:
-```bash
-pip install mlagents
-```
 
 ## License
 This project for education purpose and free to use.
