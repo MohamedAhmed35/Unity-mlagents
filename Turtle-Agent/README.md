@@ -43,3 +43,7 @@ Turtle-Agent/
 
 ```bash
 mlagents-learn config/Turtle.yaml --run-id=Turtle_run --train
+
+
+## 🎥 Demo
+A short video of the agent learning to reach the goal is available here:
