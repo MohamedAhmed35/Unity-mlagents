@@ -45,5 +45,14 @@ A short video of the agent learning to reach the goal is available here:
 - ML-Agents Toolkit
 - Python
 
+## 🧠 Installation
+
+This project uses the [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents).
+
+To install:
+```bash
+pip install mlagents
+```
+
 ## License
 This project for education purpose and free to use.
