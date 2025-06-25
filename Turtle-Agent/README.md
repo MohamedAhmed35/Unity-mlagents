@@ -42,5 +42,4 @@ Turtle-Agent/
 ## 🏁 Training Command
 
 ```bash
-mlagents-learn ML-Agents-Configs/Turtle.yaml --run-id=Turtle_run --train
-'''
+mlagents-learn config/Turtle.yaml --run-id=Turtle_run --train
