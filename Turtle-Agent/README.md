@@ -19,7 +19,15 @@ This project demonstrates a Reinforcement Learning agent built using **Unity** a
   - Goal position
 
 ## 📁 Folder Structure
-<pre> Turtle-Agent/ ├── Assets/ ├── ProjectSettings/ ├── ML-Agents-Configs/ │ └── <a href="ML-Agents-Configs/Turtle.yaml">Turtle.yaml</a> ├── Scripts/ │ ├── <a href="Scripts/TurtleAgent.cs">TurtleAgent.cs</a> │ └── <a href="Scripts/GUI_TurtleAgent.cs">GUI_TurtleAgent.cs</a> ├── README.md └── (Unity project files) </pre>
+<pre> Turtle-Agent/ 
+  ├── Assets/ 
+  ├── ProjectSettings/ 
+  ├── config/ 
+  │ └── <a href="ML-Agents-Configs/Turtle.yaml">Turtle.yaml</a> 
+  ├── Scripts/ │ ├── <a href="Scripts/TurtleAgent.cs">TurtleAgent.cs</a> 
+  │ └── <a href="Scripts/GUI_TurtleAgent.cs">GUI_TurtleAgent.cs</a> 
+  ├── README.md 
+  └── (Unity project files) </pre>
 
 
 ## 🏁 Training Command
