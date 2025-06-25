@@ -37,3 +37,10 @@ Turtle-Agent/
 
 ├── README.md
 └── (Unity project files)
+
+
+## 🏁 Training Command
+
+```bash
+mlagents-learn ML-Agents-Configs/Turtle.yaml --run-id=Turtle_run --train
+'''
