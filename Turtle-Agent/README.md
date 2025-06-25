@@ -19,31 +19,23 @@ This project demonstrates a Reinforcement Learning agent built using **Unity** a
   - Goal position
 
 ## 📁 Folder Structure
-Turtle-Agent/
-
-├── Assets/
-
-├── ProjectSettings/
-
-├── config/
-
-│ └── Turtle.yaml
-
-├── Scripts/
-
-│ ├── TurtleAgent.cs
-
-│ └── GUI_TurtleAgent.cs
-
-├── README.md
-└── (Unity project files)
+<pre> Turtle-Agent/ ├── Assets/ ├── ProjectSettings/ ├── ML-Agents-Configs/ │ └── <a href="ML-Agents-Configs/Turtle.yaml">Turtle.yaml</a> ├── Scripts/ │ ├── <a href="Scripts/TurtleAgent.cs">TurtleAgent.cs</a> │ └── <a href="Scripts/GUI_TurtleAgent.cs">GUI_TurtleAgent.cs</a> ├── README.md └── (Unity project files) </pre>
 
 
 ## 🏁 Training Command
 
 ```bash
 mlagents-learn config/Turtle.yaml --run-id=Turtle_run --train
-
+```
 
 ## 🎥 Demo
 A short video of the agent learning to reach the goal is available here:
+
+
+## Requirements
+- Unity 2023 or later
+- ML-Agents Toolkit
+- Python
+
+## License
+This project for education purpose and free to use.
